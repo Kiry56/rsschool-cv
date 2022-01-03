@@ -1,2 +1,2 @@
 # rsschool-cv
-## Almost perfect CV bbbrr
+Almost perfect CV
