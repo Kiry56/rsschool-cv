@@ -10,12 +10,19 @@
 
 
 
-         I'm 25. My goal is to become a programmer and achieve heights in this area. My strengths are teamwork, proactiveness, and a desire to learn.
+        I'm 25. My goal is to become a programmer and
+        achieve heights in this area. My strengths are
+        teamwork, proactiveness, and a desire to learn.
 
 
-        I am an educational teacher and a psychologist by nature)
+         I am an educational teacher 
+         and a psychologist by nature)
 
-        I have communication skills. For 7 years I have been working in areas in which it is simply impossible to "survive" without constructive communication.
+         I have communication skills.
+         For 7 years I have been working in areas in
+         which it is simply impossible
+         to "survive" without constructive 
+         communication.
 
 ---
 
@@ -26,6 +33,7 @@
 * Git,Github
 * Java Script basics
 * Virtual Studio Code
+
 ---
 
 ## Example Code(codewars)
