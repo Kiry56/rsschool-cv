@@ -18,3 +18,12 @@
         I have communication skills. For 7 years I have been working in areas in which it is simply impossible to "survive" without constructive communication.
 
 ---
+
+## About my Skills:
+
+* HTML
+* CSS(Flexbox)
+* Git,Github
+* Java Script basics
+* Virtual Studio Code
+---
