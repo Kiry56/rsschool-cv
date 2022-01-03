@@ -27,3 +27,17 @@
 * Java Script basics
 * Virtual Studio Code
 ---
+
+## Example Code(codewars)
+
+> [!TIP]
+> This code does not execute properly. Try to figure out why.
+        
+    function multiply(a,b){
+        a*b
+    }
+### Answer:
+        
+    function multiply(a,b = 1){
+       return a*b
+    }
